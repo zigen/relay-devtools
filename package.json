@@ -2,6 +2,7 @@
   "name": "relay-devtools-core",
   "version": "0.0.8",
   "description": "Relay Modern Devtools",
+  "main": "src/integrations/standalone/index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
